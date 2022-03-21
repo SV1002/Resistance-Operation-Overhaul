@@ -1314,13 +1314,10 @@ simulated function UpdateDataSoldierOptions()
 	}
 
 	// Pistol Slot
-	if (class'ResistanceOverhaulHelpers'.static.IsModInstalled('WOTC_PistolSlot'))
-	{
-		EquippedItem = Soldier.GetItemInSlot(eInvSlot_Pistol, NewGameState, false);
-		GetListItem(Index).EnableNavigation();
-		GetListItem(Index).UpdateDataValue(m_Sidearm, GetInventoryDisplayText(EquippedItem), OnClickSidearm);
-		Index++;
-	}
+	EquippedItem = Soldier.GetItemInSlot(eInvSlot_Pistol, NewGameState, false);
+	GetListItem(Index).EnableNavigation();
+	GetListItem(Index).UpdateDataValue(m_Sidearm, GetInventoryDisplayText(EquippedItem), OnClickSidearm);
+	Index++;
 
 	NumSidearmAttachmentSlots = 0;
 	if (X2WeaponTemplate(EquippedItem.GetMyTemplate()) != none)
