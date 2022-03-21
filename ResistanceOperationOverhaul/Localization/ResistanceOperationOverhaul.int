@@ -1,0 +1,1433 @@
+
+; Starting equipment
+
+[TU_InitialPrimaryWeapons X2ResistanceTechUpgradeTemplate]
+DisplayName="Conventional Primary Weapons"
+Description="Grants access to conventional primary weapons for all soldiers."
+
+[TU_InitialSecondaryWeapons X2ResistanceTechUpgradeTemplate]
+DisplayName="Conventional Secondary Weapons"
+Description="Grants access to conventional secondary weapons for all soldiers."
+
+[TU_InitialArmors X2ResistanceTechUpgradeTemplate]
+DisplayName="Conventional Armor"
+Description="Grants access to conventional armor for all soldiers."
+
+[TU_InitialUtilityItems X2ResistanceTechUpgradeTemplate]
+DisplayName="Basic Utility Items"
+Description="Grants access to basic utility items for all soldiers."
+
+[TU_InitialHeavyWeapons X2ResistanceTechUpgradeTemplate]
+DisplayName="Basic Heavy Weapons"
+Description="Grants access to basic heavy weapons for all soldiers."
+
+; Assault Rifles
+
+[TU_AssaultRifle_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Magnetic Rifles"
+Description="Grants access to Magnetic Rifles for all soldiers who can use them."
+
+[TU_AssaultRifle_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Plasma Rifles"
+Description="Grants access to Plasma Rifles for all soldiers who can use them."
+
+[TU_AlienHunterRifle_CV X2ResistanceTechUpgradeTemplate]
+DisplayName="Bolt Caster"
+Description="Grants one Bolt Caster."
+
+[TU_AlienHunterRifle_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Magnetic Bolt Caster"
+Description="Grants one Magnetic Bolt Caster."
+
+[TU_AlienHunterRifle_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Plasma Bolt Caster"
+Description="Grants one Plasma Bolt Caster."
+
+[TU_ChosenRifle_XCOM X2ResistanceTechUpgradeTemplate]
+DisplayName="Disruptor Rifle"
+Description="Grants one Disruptor Rifle."
+
+; Assault Rifles - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_AssaultRifle_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Magnetic Rifles"
+Description="Grants access to Magnetic Rifles for all soldiers who can use them."
+
+[TU_IRI_AssaultRifle_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Coil Rifles"
+Description="Grants access to Coil Rifles for all soldiers who can use them."
+
+[TU_IRI_AssaultRifle_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Pulse Rifles"
+Description="Grants access to Laser Rifles for all soldiers who can use them."
+
+[TU_IRI_AssaultRifle_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Plasma Rifles"
+Description="Grants access to Plasma Rifles for all soldiers who can use them."
+
+[TU_IRI_ChosenRifle_XCOM X2ResistanceTechUpgradeTemplate]
+DisplayName="Disruptor Rifle"
+Description="Grants one Disruptor Rifle."
+
+; Shotguns
+
+[TU_Shotgun_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Shard Guns"
+Description="Grants access to Shard Guns for all soldiers who can use them."
+
+[TU_Shotgun_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Storm Guns"
+Description="Grants access to Storm Guns for all soldiers who can use them."
+
+[TU_ChosenShotgun_XCOM X2ResistanceTechUpgradeTemplate]
+DisplayName="Arashi"
+Description="Grants one Arashi."
+
+; Shotguns - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_Shotgun_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Shard Guns"
+Description="Grants access to Shard Guns for all soldiers who can use them."
+
+[TU_IRI_Shotgun_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Scatterguns"
+Description="Grants access to Scatterguns for all soldiers who can use them."
+
+[TU_IRI_Shotgun_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Scatter Blasters"
+Description="Grants access to Scatter Blasters for all soldiers who can use them."
+
+[TU_IRI_Shotgun_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Storm Guns"
+Description="Grants access to Storm Guns for all soldiers who can use them."
+
+[TU_IRI_ChosenShotgun_XCOM X2ResistanceTechUpgradeTemplate]
+DisplayName="Arashi"
+Description="Grants one Arashi."
+
+; Sniper Rifles
+
+[TU_SniperRifle_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Gauss Rifles"
+Description="Grants access to Gauss Rifles for all soldiers who can use them."
+
+[TU_SniperRifle_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Plasma Lances"
+Description="Grants access to Plasma Lances for all soldiers who can use them."
+
+[TU_ChosenSniperRifle_XCOM X2ResistanceTechUpgradeTemplate]
+DisplayName="Darklance"
+Description="Grants one Darklance."
+
+; Sniper Rifles - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_SniperRifle_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Gauss Rifles"
+Description="Grants access to Gauss Rifles for all soldiers who can use them."
+
+[TU_IRI_SniperRifle_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Gauss Long Rifles"
+Description="Grants access to Gauss Long Rifles for all soldiers who can use them."
+
+[TU_IRI_SniperRifle_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Pulse Lances"
+Description="Grants access to Pulse Lances for all soldiers who can use them."
+
+[TU_IRI_SniperRifle_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Plasma Lances"
+Description="Grants access to Plasma Lances for all soldiers who can use them."
+
+[TU_IRI_ChosenSniperRifle_XCOM X2ResistanceTechUpgradeTemplate]
+DisplayName="Darklance"
+Description="Grants one Darklance."
+
+; Cannons
+
+[TU_Cannon_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Mag Cannons"
+Description="Grants access to Mag Cannons for all soldiers who can use them."
+
+[TU_Cannon_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Beam Cannons"
+Description="Grants access to Beam Cannons for all soldiers who can use them."
+
+; Cannons - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_Cannon_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Mag Cannons"
+Description="Grants access to Mag Cannons for all soldiers who can use them."
+
+[TU_IRI_Cannon_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Gauss Cannons"
+Description="Grants access to Gauss Cannons for all soldiers who can use them."
+
+[TU_IRI_Cannon_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Pulse Cannons"
+Description="Grants access to Pulse Cannons for all soldiers who can use them."
+
+[TU_IRI_Cannon_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Beam Cannons"
+Description="Grants access to Beam Cannons for all soldiers who can use them."
+
+; SMGs
+
+[TU_SMG_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Stuttermags"
+Description="Grants access to Stuttermags for all soldiers who can use them."
+
+[TU_SMG_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Scramguns"
+Description="Grants access to Scramguns for all soldiers who can use them."
+
+; SMGs - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_SMG_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Stuttermags"
+Description="Grants access to Stuttermags for all soldiers who can use them."
+
+[TU_IRI_SMG_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Subcoilers"
+Description="Grants access to Subcoilers for all soldiers who can use them."
+
+[TU_IRI_SMG_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Pulse Stenguns"
+Description="Grants access to Pulse Stenguns for all soldiers who can use them."
+
+[TU_IRI_SMG_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Storm Guns"
+Description="Grants access to Scramguns for all soldiers who can use them."
+
+; Vector Rifles
+
+[TU_VektorRifle_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Temnotic Rifles"
+Description="Grants access to Temnotic Rifles for all soldiers who can use them."
+
+[TU_VektorRifle_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Shadow Lances"
+Description="Grants access to Shadow Lances for all soldiers who can use them."
+
+; Vector Rifles - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_VektorRifle_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Temnotic Rifles"
+Description="Grants access to Temnotic Rifles for all soldiers who can use them."
+
+[TU_IRI_VektorRifle_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Tesla Lances"
+Description="Grants access to Tesla Lances for all soldiers who can use them."
+
+[TU_IRI_VektorRifle_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Crimson Lances"
+Description="Grants access to Crimson Lances for all soldiers who can use them."
+
+[TU_IRI_VektorRifle_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Shadow Lances"
+Description="Grants access to Shadow Lances for all soldiers who can use them."
+
+; Bullpups
+
+[TU_Bullpup_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="KAL-15 Bullpups"
+Description="Grants access to KAL-15 Bullpups for all soldiers who can use them."
+
+[TU_Bullpup_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="KAL-90 Bullpups"
+Description="Grants access to KAL-90 Bullpups for all soldiers who can use them."
+
+; Bullpups - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_Bullpup_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="KAL-15 Bullpups"
+Description="Grants access to KAL-15 Bullpups for all soldiers who can use them."
+
+[TU_IRI_Bullpup_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Kal-50 Bullpups"
+Description="Grants access to Kal-50 Bullpups for all soldiers who can use them."
+
+[TU_IRI_Bullpup_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Kal-33 Bullpups"
+Description="Grants access to Kal-33 Bullpups for all soldiers who can use them."
+
+[TU_IRI_Bullpup_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="KAL-90 Bullpups"
+Description="Grants access to KAL-90 Bullpups for all soldiers who can use them."
+
+; Shard Gauntlets
+
+[TU_ShardGauntlet_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Tempest Gauntlets"
+Description="Grants access to Tempest Gauntlets for all soldiers who can use them."
+
+[TU_ShardGauntlet_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Celestial Gauntlets"
+Description="Grants access to Celestial Gauntlets for all soldiers who can use them."
+
+; Spark Rifles
+
+[TU_SparkRifle_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Helix Rail-Cannons"
+Description="Grants access to Helix Rail-Cannons for all soldiers who can use them."
+
+[TU_SparkRifle_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Elerium Phase-Cannons"
+Description="Grants access to Elerium Phase-Cannons for all soldiers who can use them."
+
+; Spark Rifles - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_SparkRifle_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Helix Rail-Cannons"
+Description="Grants access to Helix Rail-Cannons for all soldiers who can use them."
+
+[TU_IRI_SparkRifle_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Rush-Nano Gausscannons"
+Description="Grants access to Rush-Nano Gausscannons for all soldiers who can use them."
+
+[TU_IRI_SparkRifle_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Spitfire Pulsecannons"
+Description="Grants access to Spitfire Pulsecannons for all soldiers who can use them."
+
+[TU_IRI_SparkRifle_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Elerium Phase-Cannons"
+Description="Grants access to Elerium Phase-Cannons for all soldiers who can use them."
+
+; Swords
+
+[TU_Sword_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Arc Blades"
+Description="Grants access to Arc Blades for all soldiers who can use them."
+
+[TU_Sword_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Fusion Blades"
+Description="Grants access to Fusion Blades for all soldiers who can use them."
+
+[TU_AlienHunterAxe_CV X2ResistanceTechUpgradeTemplate]
+DisplayName="Hunter's Axe"
+Description="Grants one Hunter's Axe."
+
+[TU_AlienHunterAxe_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Ionic Axe"
+Description="Grants one Ionic Axe."
+
+[TU_AlienHunterAxe_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Fusion Axe"
+Description="Grants one Fusion Axe."
+
+[TU_ChosenSword_XCOM X2ResistanceTechUpgradeTemplate]
+DisplayName="Katana"
+Description="Grants one Katana."
+
+; Swords - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_Sword_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Arc Blades"
+Description="Grants access to Arc Blades for all soldiers who can use them."
+
+[TU_IRI_Sword_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Coil Swords"
+Description="Grants access to Coil Swords for all soldiers who can use them."
+
+[TU_IRI_Sword_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Laser Kriegsmessers"
+Description="Grants access to Laser Kriegsmessers for all soldiers who can use them."
+
+[TU_IRI_Sword_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Fusion Blades"
+Description="Grants access to Fusion Blades for all soldiers who can use them."
+
+[TU_IRI_ChosenSword_XCOM X2ResistanceTechUpgradeTemplate]
+DisplayName="Katana"
+Description="Grants one Katana."
+
+; Pistols
+
+[TU_Pistol_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Mag Pistols"
+Description="Grants access to Mag Pistols for all soldiers who can use them."
+
+[TU_Pistol_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Beam Pistols"
+Description="Grants access to Beam Pistols for all soldiers who can use them."
+
+[TU_AlienHunterPistol_CV X2ResistanceTechUpgradeTemplate]
+DisplayName="Shadowkeeper"
+Description="Grants one Shadowkeeper."
+
+[TU_AlienHunterPistol_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Enhanced Shadowkeeper"
+Description="Grants one Enhanced Shadowkeeper."
+
+[TU_AlienHunterPistol_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Powered Shadowkeeper"
+Description="Grants one Powered Shadowkeeper."
+
+[TU_ChosenSniperPistol_XCOM X2ResistanceTechUpgradeTemplate]
+DisplayName="Darkclaw"
+Description="Grants one Darkclaw."
+
+; Pistols - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_Pistol_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Mag Pistols"
+Description="Grants access to Mag Pistols for all soldiers who can use them."
+
+[TU_IRI_Pistol_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Gauss Pistols"
+Description="Grants access to Gauss Pistols for all soldiers who can use them."
+
+[TU_IRI_Pistol_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Pulse Pistols"
+Description="Grants access to Pulse Pistols for all soldiers who can use them."
+
+[TU_IRI_Pistol_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Beam Pistols"
+Description="Grants access to Beam Pistols for all soldiers who can use them."
+
+[TU_IRI_ChosenSniperPistol_XCOM X2ResistanceTechUpgradeTemplate]
+DisplayName="Darkclaw"
+Description="Grants one Darkclaw."
+
+; Grenade Launchers
+
+[TU_GrenadeLauncher_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Advanced Grenade Launchers"
+Description="Grants access to Advanced Grenade Launchers for all soldiers who can use them."
+
+; Gremlins
+
+[TU_Gremlin_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="GREMLIN Mark II"
+Description="Grants access to the GREMLIN Mark II for all soldiers who can use it."
+
+[TU_Gremlin_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="GREMLIN Mark III"
+Description="Grants access to the GREMLIN Mark III for all soldiers who can use it."
+
+; Psi Amps
+
+[TU_PsiAmp_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Advanced Psi Amps"
+Description="Grants access to Advanced Psi Amps for all soldiers who can use them."
+
+[TU_PsiAmp_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Alien Psi Amps"
+Description="Grants access to Alien Psi Amps for all soldiers who can use them."
+
+; Ripjacks
+
+[TU_WristBlade_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Ionic Ripjacks"
+Description="Grants access to Ionic Ripjacks for all soldiers who can use them."
+
+[TU_WristBlade_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Fusion Ripjacks"
+Description="Grants access to Fusion Ripjacks for all soldiers who can use them."
+
+; Ripjacks - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_WristBlade_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Ionic Ripjacks"
+Description="Grants access to Ionic Ripjacks for all soldiers who can use them."
+
+[TU_IRI_WristBlade_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Nanotech Ripjacks"
+Description="Grants access to Nanotech Ripjacks for all soldiers who can use them."
+
+[TU_IRI_WristBlade_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Pulse Ripjacks"
+Description="Grants access to Pulse Ripjacks for all soldiers who can use them."
+
+[TU_IRI_WristBlade_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Fusion Ripjacks"
+Description="Grants access to Fusion Ripjacks for all soldiers who can use them."
+
+; Sidearms
+
+[TU_Sidearm_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Mag Autopistols"
+Description="Grants access to Mag Autopistols for all soldiers who can use them."
+
+[TU_Sidearm_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Beam Autopistols"
+Description="Grants access to Beam Autopistols for all soldiers who can use them."
+
+; Sidearms - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_Sidearm_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Mag Autopistols"
+Description="Grants access to Mag Autopistols for all soldiers who can use them."
+
+[TU_IRI_Sidearm_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Cyclers"
+Description="Grants access to Cyclers for all soldiers who can use them."
+
+[TU_IRI_Sidearm_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Heaters"
+Description="Grants access to Heaters for all soldiers who can use them."
+
+[TU_IRI_Sidearm_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Beam Autopistols"
+Description="Grants access to Beam Autopistols for all soldiers who can use them."
+
+; BITs
+
+[TU_SparkBit_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="SPARK BIT Mark II"
+Description="Grants access to the SPARK BIT Mark II for all soldiers who can use it."
+
+[TU_SparkBit_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="SPARK BIT Mark III"
+Description="Grants access to the SPARK BIT Mark III for all soldiers who can use it."
+
+; Heavy Weapons
+
+[TU_FlamethrowerMk2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Hellfire Projector"
+Description="Grants one Hellfire Projector."
+
+[TU_BlasterLauncher X2ResistanceTechUpgradeTemplate]
+DisplayName="Blaster Launcher"
+Description="Grants one Blaster Launcher."
+
+[TU_PlasmaBlaster X2ResistanceTechUpgradeTemplate]
+DisplayName="Plasma Blaster"
+Description="Grants one Plasma Blaster."
+
+[TU_ShredderGun X2ResistanceTechUpgradeTemplate]
+DisplayName="Shredder Gun"
+Description="Grants one Shredder Gun."
+
+[TU_ShredstormCannon X2ResistanceTechUpgradeTemplate]
+DisplayName="Shredstorm Cannon"
+Description="Grants one Shredstorm Cannon."
+
+; Medium Armor
+
+[TU_MediumPlatedArmor X2ResistanceTechUpgradeTemplate]
+DisplayName="Plated Armor"
+Description="Grants access to Plated Armor for all soldiers who can use them."
+
+[TU_MediumPoweredArmor X2ResistanceTechUpgradeTemplate]
+DisplayName="Powered Armor"
+Description="Grants access to Powered Armor for all soldiers who can use them."
+
+[TU_MediumAlienArmor X2ResistanceTechUpgradeTemplate]
+DisplayName="Icarus Armor"
+Description="Grants one Icarus Armor."
+
+; Light Armor
+
+[TU_SpiderSuits X2ResistanceTechUpgradeTemplate]
+DisplayName="Spider Suit"
+Description="Grants one Spider Suit."
+
+[TU_WraithSuits X2ResistanceTechUpgradeTemplate]
+DisplayName="Wraith Suit"
+Description="Grants one Wraith Suit."
+
+[TU_LightAlienArmor X2ResistanceTechUpgradeTemplate]
+DisplayName="Serpent Suit"
+Description="Grants one Serpent Suit."
+
+[TU_LightAlienArmorMk2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Serpent Armor"
+Description="Grants one Serpent Armor."
+
+; Heavy Armor
+
+[TU_ExoSuits X2ResistanceTechUpgradeTemplate]
+DisplayName="E.X.O. Suit"
+Description="Grants one E.X.O. Suit."
+
+[TU_WarSuits X2ResistanceTechUpgradeTemplate]
+DisplayName="W.A.R. Suit"
+Description="Grants one W.A.R. Suit."
+
+[TU_HeavyAlienArmor X2ResistanceTechUpgradeTemplate]
+DisplayName="R.A.G.E. Suit"
+Description="Grants one R.A.G.E. Suit."
+
+[TU_HeavyAlienArmorMk2 X2ResistanceTechUpgradeTemplate]
+DisplayName="R.A.G.E. Armor"
+Description="Grants one R.A.G.E. Armor."
+
+; Grenades
+
+[TU_FlashbangGrenadeMk2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Flashbang Bomb"
+Description="Grants one Flashbang Bomb."
+
+[TU_FlashbangGrenadeMk3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Flashbang Warhead"
+Description="Grants one Flashbang Warhead."
+
+[TU_SmokeGrenadeMk2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Smoke Bomb"
+Description="Grants one Smoke Bomb."
+
+[TU_SmokeGrenadeM3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Smoke Warhead"
+Description="Grants one Smoke Warhead."
+
+[TU_AlienGrenade X2ResistanceTechUpgradeTemplate]
+DisplayName="Plasma Grenade"
+Description="Grants one Plasma Grenade."
+
+[TU_ProximityMine X2ResistanceTechUpgradeTemplate]
+DisplayName="Proximity Mine"
+Description="Grants one Proximity Mine."
+
+[TU_ProximityMineMk2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Proximity Bomb"
+Description="Grants one Proximity Bomb."
+
+[TU_ProximityMineMk3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Proximity Warhead"
+Description="Grants one Proximity Warhead."
+
+[TU_Firebomb X2ResistanceTechUpgradeTemplate]
+DisplayName="Incendiary Grenade"
+Description="Grants one Incendiary Grenade."
+
+[TU_FirebombMK2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Incendiary Bomb"
+Description="Grants one Incendiary Bomb."
+
+[TU_GasGrenade X2ResistanceTechUpgradeTemplate]
+DisplayName="Gas Grenade"
+Description="Grants one Gas Grenade."
+
+[TU_GasGrenadeMk2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Gas Bomb"
+Description="Grants one Gas Bomb."
+
+[TU_AcidGrenade X2ResistanceTechUpgradeTemplate]
+DisplayName="Acid Grenade"
+Description="Grants one Acid Grenade."
+
+[TU_AcidGrenadeMk2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Acid Bomb"
+Description="Grants one Acid Bomb."
+
+[TU_EMPGrenade X2ResistanceTechUpgradeTemplate]
+DisplayName="EMP Grenade"
+Description="Grants one EMP Grenade."
+
+[TU_EMPGrenadeMk2 X2ResistanceTechUpgradeTemplate]
+DisplayName="EMP Bomb"
+Description="Grants one EMP Bomb."
+
+[TU_Frostbomb X2ResistanceTechUpgradeTemplate]
+DisplayName="Frost Bomb"
+Description="Grants one Frost Bomb."
+
+[TU_FM_Frostbomb X2ResistanceTechUpgradeTemplate]
+DisplayName="Frost Grenade"
+Description="Grants one Frost Grenade."
+
+[TU_FM_FrostbombMk2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Frost Bomb"
+Description="Grants one Frost Bomb."
+
+[TU_FM_FrostbombMk3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Frost Warhead"
+Description="Grants one Frost Warhead."
+
+; Vests
+
+[TU_PlatedVest X2ResistanceTechUpgradeTemplate]
+DisplayName="Plated Vest"
+Description="Grants one Plated Vest."
+
+[TU_HazmatVest X2ResistanceTechUpgradeTemplate]
+DisplayName="Hazmat Vest"
+Description="Grants one Hazmat Vest."
+
+[TU_StasisVest X2ResistanceTechUpgradeTemplate]
+DisplayName="Stasis Vest"
+Description="Grants one Stasis Vest."
+
+[TU_Hellweave X2ResistanceTechUpgradeTemplate]
+DisplayName="Hellweave"
+Description="Grants one Hellweave."
+
+; Ammo
+
+[TU_TracerRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Tracer Rounds"
+Description="Grants one set of Tracer Rounds."
+
+[TU_TalonRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Talon Rounds"
+Description="Grants one set of Talon Rounds."
+
+[TU_APRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="A.P. Rounds"
+Description="Grants one set of A.P. Rounds."
+
+[TU_VenomRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Venom Rounds"
+Description="Grants one set of Venom Rounds."
+
+[TU_IncendiaryRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Dragon Rounds"
+Description="Grants one set of Dragon Rounds."
+
+[TU_BluescreenRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Bluescreen Rounds"
+Description="Grants one set of Bluescreen Rounds."
+
+; Misc. Utility Items
+
+[TU_BattleScanner X2ResistanceTechUpgradeTemplate]
+DisplayName="Battle Scanner"
+Description="Grants one Battle Scanner."
+
+[TU_MimicBeacon X2ResistanceTechUpgradeTemplate]
+DisplayName="Mimic Beacon"
+Description="Grants one Mimic Beacon."
+
+[TU_NanoMedikit X2ResistanceTechUpgradeTemplate]
+DisplayName="Nanomedikit"
+Description="Grants one Nanomedikit."
+
+[TU_MindShield X2ResistanceTechUpgradeTemplate]
+DisplayName="Mindshield"
+Description="Grants one Mindshield."
+
+[TU_SKULLJACK X2ResistanceTechUpgradeTemplate]
+DisplayName="Skulljack"
+Description="Grants one Skulljack."
+
+[TU_UltrasonicLure X2ResistanceTechUpgradeTemplate]
+DisplayName="Ultrasonic Lure"
+Description="Grants one Ultrasonic Lure."
+
+[TU_CombatStims X2ResistanceTechUpgradeTemplate]
+DisplayName="Overdrive Serum"
+Description="Grants one Overdrive Serum."
+
+[TU_SustainingSphere X2ResistanceTechUpgradeTemplate]
+DisplayName="Sustaining Sphere"
+Description="Grants one Sustaining Sphere."
+
+[TU_RefractionField X2ResistanceTechUpgradeTemplate]
+DisplayName="Refraction Field"
+Description="Grants one Refraction Field."
+
+; Attachments
+
+[TU_BasicAttachment X2ResistanceTechUpgradeTemplate]
+DisplayName="Basic Attachments"
+Description="Grants one of each basic primary weapon attachment."
+
+[TU_AdvancedAttachment X2ResistanceTechUpgradeTemplate]
+DisplayName="Advanced Attachments"
+Description="Grants one of each advanced primary weapon attachment."
+
+[TU_SuperiorAttachment X2ResistanceTechUpgradeTemplate]
+DisplayName="Superior Attachments"
+Description="Grants one of each superior primary weapon attachment."
+
+; PCSs
+
+[TU_CommonPCSs X2ResistanceTechUpgradeTemplate]
+DisplayName="Common PCSs"
+Description="Grants one of each common PCS."
+
+[TU_RarePCSs X2ResistanceTechUpgradeTemplate]
+DisplayName="Rare PCSs"
+Description="Grants one of each rare PCS."
+
+[TU_EpicPCSs X2ResistanceTechUpgradeTemplate]
+DisplayName="Epic PCSs"
+Description="Grants one of each epic PCS."
+
+; LW2 Secondary Weapons
+
+[TU_InitialLW2SecondaryWeapons X2ResistanceTechUpgradeTemplate]
+DisplayName="LW2 Secondary Weapons"
+Description="Grants access to conventional LW2 secondary weapons for all soldiers."
+
+[TU_Arcthrower_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Advanced Arc Throwers"
+Description="Grants access to Advanced Arc Throwers for all soldiers who can use them."
+
+[TU_Arcthrower_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Arc Blasters"
+Description="Grants access to Arc Blasters for all soldiers who can use them."
+
+[TU_Holotargeter_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Holotargeter Mark II"
+Description="Grants access to the Holotargeter Mark II for all soldiers who can use it."
+
+[TU_Holotargeter_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Holotargeter Mark III"
+Description="Grants access to the Holotargeter Mark III for all soldiers who can use it."
+
+[TU_SawedOffShotgun_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Mag Shorties"
+Description="Grants access to Mag Shorties for all soldiers who can use them."
+
+[TU_SawedOffShotgun_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Plasma Shorties"
+Description="Grants access to Plasma Shorties for all soldiers who can use them."
+
+; Sawed-Off Shotguns - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_SawedOffShotgun_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Mag Shorties"
+Description="Grants access to Mag Shorties for all soldiers who can use them."
+
+[TU_IRI_SawedOffShotgun_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Coil Shorties"
+Description="Grants access to Coil Shorties for all soldiers who can use them."
+
+[TU_IRI_SawedOffShotgun_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Blazers"
+Description="Grants access to Blazers for all soldiers who can use them."
+
+[TU_IRI_SawedOffShotgun_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Plasma Shorties"
+Description="Grants access to Plasma Shorties for all soldiers who can use them."
+
+[TU_CombatKnife_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Vibroblades"
+Description="Grants access to Vibroblades for all soldiers who can use them."
+
+[TU_CombatKnife_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Advanced Vibroblades"
+Description="Grants access to Advanced Vibroblades for all soldiers who can use them."
+
+; Combat Knives - Iridar's Five Tier Weapon Overhaul
+
+[TU_IRI_CombatKnife_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Vibroblades"
+Description="Grants access to Vibroblades for all soldiers who can use them."
+
+[TU_IRI_CombatKnife_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="Progressive Knives"
+Description="Grants access to Progressive Knives for all soldiers who can use them."
+
+[TU_IRI_CombatKnife_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="Laser Cutlasses"
+Description="Grants access to Laser Cutlasses for all soldiers who can use them."
+
+[TU_IRI_CombatKnife_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Advanced Vibroblades"
+Description="Grants access to Advanced Vibroblades for all soldiers who can use them."
+
+[TU_LWGauntlet_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Gauntlet Mark II"
+Description="Grants access to the Gauntlet Mark II for all soldiers who can use it."
+
+[TU_LWGauntlet_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Blaster Gauntlets"
+Description="Grants access to Blaster Gauntlet for all soldiers who can use them."
+
+; Ballistic Shields
+
+[TU_BallisticShield_CV X2ResistanceTechUpgradeTemplate]
+DisplayName="Ballistic Shield MK1"
+Description="Grants access to the Ballistic Shield MK1 for all soldiers who can use it."
+
+[TU_BallisticShield_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Ballistic Shield MK2"
+Description="Grants access to the Ballistic Shield MK2 for all soldiers who can use it."
+
+[TU_BallisticShield_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Ballistic Shield MK3"
+Description="Grants access to the Ballistic Shield MK3 for all soldiers who can use it."
+
+; Stim Guns
+
+[TU_StimGun_CV X2ResistanceTechUpgradeTemplate]
+DisplayName="Stim Guns"
+Description="Grants access to Stim Guns for all soldiers who can use them."
+
+[TU_StimGun_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Stim Blasters"
+Description="Grants access to Stim Blasters for all soldiers who can use them."
+
+[TU_StimGun_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Stim Rays"
+Description="Grants access to Stim Rays for all soldiers who can use them."
+
+; Blaster Launcher
+
+[TU_GrenadeLauncher_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Blaster Launchers"
+Description="Grants access to Blaster Launchers for all soldiers who can use them."
+
+; Tier 3 Grenades
+
+[TU_SmokeGrenadeM3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Smoke Warhead"
+Description="Grants one Smoke Warhead."
+
+[TU_AlienGrenadeM3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Plasma Warhead"
+Description="Grants one Plasma Warhead."
+
+[TU_FireGrenadeM3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Incendiary Warhead"
+Description="Grants one Incendiary Warhead."
+
+[TU_GasGrenadeM3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Gas Warhead"
+Description="Grants one Gas Warhead."
+
+[TU_AcidGrenadeM3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Acid Warhead"
+Description="Grants one Acid Warhead."
+
+[TU_EMPGrenadeM3 X2ResistanceTechUpgradeTemplate]
+DisplayName="EMP Warhead"
+Description="Grants one EMP Warhead."
+
+; Primary Secondaries
+
+[TU_InitialPrimarySecondaryWeapons X2ResistanceTechUpgradeTemplate]
+DisplayName="Conventional Secondary Weapons"
+Description="Grants access to conventional secondary weapons that can be used as primary weapons for all soldiers."
+
+[TU_InitialLW2PrimarySecondaryWeapons X2ResistanceTechUpgradeTemplate]
+DisplayName="LW2 Secondary Weapons"
+Description="Grants access to conventional LW2 secondary weapons that can be used as primary weapons for all soldiers."
+
+; Rocket Launchers 2.0
+
+[TU_InitialRocketLaunchers X2ResistanceTechUpgradeTemplate]
+DisplayName="Conventional Rocket Launcers"
+Description="Grants access to conventional Rocket Launcher secondary weapons for all soldiers who can use them."
+
+[TU_IRI_RocketLauncher_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Advanced Rocket Launcers"
+Description="Grants access to Advanced Rocket Launcher secondary weapons for all soldiers who can use them."
+
+[TU_IRI_RocketLauncher_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Elerium Rocket Launcers"
+Description="Grants access to Elerium Rocket Launcher secondary weapons for all soldiers who can use them."
+
+[TU_IRI_X2Rocket_Plasma X2ResistanceTechUpgradeTemplate]
+DisplayName="Plasma Rockets"
+Description="Grants one set of Plasma Rockets."
+
+[TU_IRI_X2Rocket_Elerium X2ResistanceTechUpgradeTemplate]
+DisplayName="Elerium Rockets"
+Description="Grants one set of Elerium Rockets."
+
+[TU_IRI_X2Rocket_Shredder_T3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Shredstorm Rockets"
+Description="Grants one set of Shredstorm Rockets."
+
+[TU_IRI_X2Rocket_Plasma_Ejector X2ResistanceTechUpgradeTemplate]
+DisplayName="Plasma Ejectors"
+Description="Grants one set of Plasma Ejectors."
+
+[TU_IRI_X2Rocket_Lockon X2ResistanceTechUpgradeTemplate]
+DisplayName="Lockon Rockets"
+Description="Grants one set of Lockon Rockets."
+
+[TU_IRI_X2Rocket_Lockon_T3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Falcon Rockets"
+Description="Grants one set of Falcon Rockets."
+
+[TU_IRI_X2Rocket_Napalm X2ResistanceTechUpgradeTemplate]
+DisplayName="Napalm Rockets"
+Description="Grants one set of Napalm Rockets."
+
+[TU_IRI_X2Rocket_Napalm_T3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Hellfire Rockets"
+Description="Grants one set of Hellfire Rockets."
+
+[TU_IRI_X2Rocket_Sabot X2ResistanceTechUpgradeTemplate]
+DisplayName="Sabot Rockets"
+Description="Grants one set of Sabot Rockets."
+
+[TU_IRI_X2Rocket_Sabot_T3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Sabot H.I. Rockets"
+Description="Grants one set of Sabot H.I. Rockets."
+
+[TU_IRI_X2Rocket_Thermobaric X2ResistanceTechUpgradeTemplate]
+DisplayName="Thermobaric Rockets"
+Description="Grants one set of Thermobaric Rockets."
+
+[TU_IRI_X2Rocket_Thermobaric_T3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Heatflash Rockets"
+Description="Grants one set of Heatflash Rockets."
+
+[TU_IRI_X2Rocket_WhitePh X2ResistanceTechUpgradeTemplate]
+DisplayName="Phosphorous Rockets"
+Description="Grants one set of Phosphorous Rockets."
+
+[TU_IRI_X2Rocket_WhitePh_T3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Sarin Rockets"
+Description="Grants one set of Sarin Rockets."
+
+[TU_IRI_X2Rocket_Acid X2ResistanceTechUpgradeTemplate]
+DisplayName="Acid Rockets"
+Description="Grants one set of Acid Rockets."
+
+[TU_IRI_X2Rocket_Flechette X2ResistanceTechUpgradeTemplate]
+DisplayName="Flechette Rockets"
+Description="Grants one set of Flechette Rockets."
+
+[TU_IRI_X2Rocket_Flechette_T3 X2ResistanceTechUpgradeTemplate]
+DisplayName="Metalstorm Rockets"
+Description="Grants one set of Metalstorm Rockets."
+
+[TU_IRI_X2Rocket_Nuke X2ResistanceTechUpgradeTemplate]
+DisplayName="Tactical Nukes"
+Description="Grants one set of Tactical Nukes."
+
+; Iridar's Underbarrel Attachments
+
+[TU_UBS_Conv X2ResistanceTechUpgradeTemplate]
+DisplayName="Underbarrel Shotgun"
+Description="Grants one Underbarrel Shotgun."
+
+[TU_UBS_Mag X2ResistanceTechUpgradeTemplate]
+DisplayName="Underbarrel Shard Gun"
+Description="Grants one Underbarrel Shard Gun."
+
+[TU_UBS_Beam X2ResistanceTechUpgradeTemplate]
+DisplayName="Underbarrel Storm Gun"
+Description="Grants one Underbarrel Storm Gun."
+
+[TU_UBGL_Conv X2ResistanceTechUpgradeTemplate]
+DisplayName="Underbarrel Grenade Launcher"
+Description="Grants one Underbarrel Grenade Launcher."
+
+[TU_UBGL_Mag X2ResistanceTechUpgradeTemplate]
+DisplayName="Underbarrel Mag Launcher"
+Description="Grants one Underbarrel Mag Launcher."
+
+[TU_UBGL_Beam X2ResistanceTechUpgradeTemplate]
+DisplayName="Underbarrel Beam Launcher"
+Description="Grants one Underbarrel Beam Launcher."
+
+[TU_UBFlame_Conv X2ResistanceTechUpgradeTemplate]
+DisplayName="Underbarrel Flamethrower"
+Description="Grants one Underbarrel Flamethrower."
+
+[TU_UBFlame_Mag X2ResistanceTechUpgradeTemplate]
+DisplayName="Underbarrel Elerium Thrower"
+Description="Grants one Underbarrel Elerium Thrower."
+
+[TU_UBFlame_Beam X2ResistanceTechUpgradeTemplate]
+DisplayName="Underbarrel Elerium Acid Thrower"
+Description="Grants one Underbarrel Elerium Acid Thrower."
+
+; High Quality Rounds
+
+[TU_HighQualityRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="High Quality Rounds"
+Description="Grants access to High Quality Rounds for all soldiers who can use them."
+
+; Corrosive Rounds
+
+[TU_CorrosiveRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Corrosive Rounds"
+Description="Grants one set of Corrosive Rounds."
+
+; Arctic Rounds
+
+[TU_ArcticRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Arctic Rounds"
+Description="Grants one set of Arctic Rounds."
+
+; LW2 Utility Plating
+
+[TU_LW2WOTC_CeramicPlating X2ResistanceTechUpgradeTemplate]
+DisplayName="Ceramic Plating"
+Description="Grants one Ceramic Plating."
+
+[TU_LW2WOTC_AlloyPlating X2ResistanceTechUpgradeTemplate]
+DisplayName="Alloy Plating"
+Description="Grants one Alloy Plating."
+
+[TU_LW2WOTC_ChitinPlating X2ResistanceTechUpgradeTemplate]
+DisplayName="Chitin Plating"
+Description="Grants one Chitin Plating."
+
+[TU_LW2WOTC_CarapacePlating X2ResistanceTechUpgradeTemplate]
+DisplayName="Carapace Plating"
+Description="Grants one Carapace Plating."
+
+; LW2 Classes and Perks - PCS
+
+[TU_DepthPerceptionPCS X2ResistanceTechUpgradeTemplate]
+DisplayName="PCS: Depth Perception"
+Description="Grants one PCS: Depth Perception."
+
+[TU_HyperReactivePupilsPCS X2ResistanceTechUpgradeTemplate]
+DisplayName="PCS: Hyper-Reactive Pupils"
+Description="Grants one PCS: Hyper-Reactive Pupils."
+
+[TU_CombatAwarenessPCS X2ResistanceTechUpgradeTemplate]
+DisplayName="PCS: Combat Awareness"
+Description="Grants one PCS: Combat Awareness."
+
+[TU_CombatRushPCS X2ResistanceTechUpgradeTemplate]
+DisplayName="PCS: Combat Rush"
+Description="Grants one PCS: Combat Rush."
+
+[TU_DamageControlPCS X2ResistanceTechUpgradeTemplate]
+DisplayName="PCS: Damage Control"
+Description="Grants one PCS: Damage Control."
+
+[TU_ImpactFieldsPCS X2ResistanceTechUpgradeTemplate]
+DisplayName="PCS: Impact Fields"
+Description="Grants one PCS: Impact Fields."
+
+[TU_BodyShieldPCS X2ResistanceTechUpgradeTemplate]
+DisplayName="PCS: Body Shield"
+Description="Grants one PCS: Body Shield."
+
+[TU_EmergencyLifeSupportPCS X2ResistanceTechUpgradeTemplate]
+DisplayName="PCS: Emergency Life Support"
+Description="Grants one PCS: Emergency Life Support."
+
+[TU_IronSkinPCS X2ResistanceTechUpgradeTemplate]
+DisplayName="PCS: Iron Skin"
+Description="Grants one PCS: Iron Skin."
+
+[TU_SmartMacrophagesPCS X2ResistanceTechUpgradeTemplate]
+DisplayName="PCS: Smart Macrophages"
+Description="Grants one PCS: Smart Macrophages."
+
+; [WOTC] Cut Content Ammo
+
+[TU_RiotRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Riot Rounds"
+Description="Grants one set of Riot Rounds."
+
+[TU_FalconRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Falcon Rounds"
+Description="Grants one set of Falcon Rounds."
+
+[TU_RedscreenRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Redscreen Rounds"
+Description="Grants one set of Redscreen Rounds."
+
+[TU_FlechetteRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Flechette Rounds"
+Description="Grants one set of Flechette Rounds."
+
+[TU_NeedleRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Needle Rounds"
+Description="Grants one set of Needle Rounds."
+
+[TU_AcidRounds X2ResistanceTechUpgradeTemplate]
+DisplayName="Acid Rounds"
+Description="Grants one set of Acid Rounds."
+
+; [WOTC] Iridar's SPARK Arsenal 3.0
+
+[TU_InitialSparkArsenal X2ResistanceTechUpgradeTemplate]
+DisplayName="Conventional Spark Arsenal"
+Description="Grants access to additional conventional weapons for SPARKs."
+
+[TU_IRI_Incinerator_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="SF-21 Ashbringers"
+Description="Grants access to SF-21 Ashbringers for all soldiers who can use them."
+
+[TU_IRI_Incinerator_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="SF-35 Solar Flares"
+Description="Grants access to SF-35 Solar Flares for all soldiers who can use them."
+
+[TU_IRI_ArtilleryCannon_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="LAGO-508 Heavy Cannons"
+Description="Grants access to LAGO-508 Heavy Cannons for all soldiers who can use them."
+
+[TU_IRI5_ArtilleryCannon_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="L-22 Leafstar Heavy Cannons"
+Description="Grants access to L-22 Leafstar Heavy Cannons for all soldiers who can use them."
+
+[TU_IRI5_ArtilleryCannon_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="LAGO-508 Heavy Cannons"
+Description="Grants access to LAGO-508 Heavy Cannons for all soldiers who can use them."
+
+[TU_IRI5_ArtilleryCannon_CG X2ResistanceTechUpgradeTemplate]
+DisplayName="DON-82 Coilmaster Heavy Cannons"
+Description="Grants access to DON-82 Coilmaster Heavy Cannons for all soldiers who can use them."
+
+[TU_IRI5_ArtilleryCannon_LS X2ResistanceTechUpgradeTemplate]
+DisplayName="RS-9 Redace Superlasers"
+Description="Grants access to RS-9 Redace Superlasers for all soldiers who can use them."
+
+[TU_IRI_ArtilleryCannon_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="L-22 Leafstar Heavy Cannons"
+Description="Grants access to L-22 Leafstar Heavy Cannons for all soldiers who can use them."
+
+[TU_IRI_OrdnanceLauncher_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Ordnance Accelerators"
+Description="Grants access to Ordnance Accelerators for all soldiers who can use them."
+
+[TU_IRI_OrdnanceLauncher_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Ordnance Amplifiers"
+Description="Grants access to Ordnance Amplifiers for all soldiers who can use them."
+
+[TU_IRI_KineticStrikeModule X2ResistanceTechUpgradeTemplate]
+DisplayName="Kinetic Strike Modules"
+Description="Grants access to Kinetic Strike Modules for all soldiers who can use them."
+
+[TU_IRI_Ammo_Sabot X2ResistanceTechUpgradeTemplate]
+DisplayName="Sabot Rounds"
+Description="Grants one set of Sabot Rounds."
+
+[TU_IRI_Shell_HEAT X2ResistanceTechUpgradeTemplate]
+DisplayName="HEAT Shells"
+Description="Grants access to HEAT Shells for all soldiers who can use them."
+
+[TU_IRI_Shell_HEDP X2ResistanceTechUpgradeTemplate]
+DisplayName="HEDP Shells"
+Description="Grants access to HEDP Shells for all soldiers who can use them."
+
+[TU_IRI_Shell_HE X2ResistanceTechUpgradeTemplate]
+DisplayName="HE Shells"
+Description="Grants access to HE Shells for all soldiers who can use them."
+
+[TU_IRI_Shell_HESH X2ResistanceTechUpgradeTemplate]
+DisplayName="HESH Shells"
+Description="Grants access to HESH Shells for all soldiers who can use them."
+
+[TU_IRI_Shell_Shrapnel X2ResistanceTechUpgradeTemplate]
+DisplayName="Shrapnel Shells"
+Description="Grants access to Shrapnel Shells for all soldiers who can use them."
+
+[TU_IRI_Shell_Flechette X2ResistanceTechUpgradeTemplate]
+DisplayName="Flechette Shells"
+Description="Grants access to Flechette Shells for all soldiers who can use them."
+
+[TU_IRI_Shells_T1 X2ResistanceTechUpgradeTemplate]
+DisplayName="Munitions Mounts"
+Description="Grants access to Munitions Mounts for all soldiers who can use them."
+
+[TU_IRI_Shells_T2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Advanced Munitions Mounts"
+Description="Grants access to Advanced Munitions Mounts for all soldiers who can use them."
+
+[TU_IRI_ExperimentalMagazine_Upgrade X2ResistanceTechUpgradeTemplate]
+DisplayName="Experimental Magazine"
+Description="Grants one Experimental Magazine."
+
+[TU_IRI_SpeedLoader_Upgrade X2ResistanceTechUpgradeTemplate]
+DisplayName="Speed Loader"
+Description="Grants one Speed Loader."
+
+[TU_IRI_RestorativeMist_CV X2ResistanceTechUpgradeTemplate]
+DisplayName="Restorative Mist"
+Description="Grants one Restorative Mist."
+
+[TU_IRI_ElectroPulse_CV X2ResistanceTechUpgradeTemplate]
+DisplayName="E.M. Pulse"
+Description="Grants one E.M. Pulse."
+
+[TU_IRI_HeavyStrikeModule_T1 X2ResistanceTechUpgradeTemplate]
+DisplayName="Heavy Strike Module"
+Description="Grants one Heavy Strike Module."
+
+[TU_IRI_HeavyStrikeModule_T2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Powered Strike Module"
+Description="Grants one Powered Strike Module."
+
+[TU_IRI_Heavy_Autogun X2ResistanceTechUpgradeTemplate]
+DisplayName="Kiruka Autogun"
+Description="Grants one Kiruka Autogun."
+
+[TU_IRI_Heavy_Autogun_MK2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Kiruka Autopulser"
+Description="Grants one Kiruka Autopulser."
+
+; Immolator + Chemthrower Abilities
+
+[TU_MZImmolator_CV X2ResistanceTechUpgradeTemplate]
+DisplayName="Immolators"
+Description="Grants access to Immolators and Flame Canisters."
+
+[TU_MZImmolator_MG X2ResistanceTechUpgradeTemplate]
+DisplayName="Advanced Immolators"
+Description="Grants access to Advanced Immolators for all soldiers that can use them."
+
+[TU_MZImmolator_BM X2ResistanceTechUpgradeTemplate]
+DisplayName="Superior Immolators"
+Description="Grants access to Superior Immolators for all soldiers that can use them."
+
+[TU_MZPoisonCanister X2ResistanceTechUpgradeTemplate]
+DisplayName="Toxic Gas Canisters"
+Description="Grants access to Toxic Gas Canisters for all soldiers that can use them."
+
+[TU_MZAcidCanister X2ResistanceTechUpgradeTemplate]
+DisplayName="Acid Canisters"
+Description="Grants access to Acid Canisters for all soldiers that can use them."
+
+[TU_MZBluescreenCanister X2ResistanceTechUpgradeTemplate]
+DisplayName="Bluescreen Canisters"
+Description="Grants access to Bluescreen Canisters for all soldiers that can use them."
+
+[TU_MZCurseCanister X2ResistanceTechUpgradeTemplate]
+DisplayName="Curse Canisters"
+Description="Grants access to Curse Canisters for all soldiers that can use them."
+
+[TU_MZSmokeCanister X2ResistanceTechUpgradeTemplate]
+DisplayName="Smoke Canisters"
+Description="Grants access to Smoke Canisters for all soldiers that can use them."
+
+[TU_MZMedicCanister X2ResistanceTechUpgradeTemplate]
+DisplayName="Medical Canisters"
+Description="Grants access to Medical Canisters for all soldiers that can use them."
+
+[TU_MZImmolator_BasicAttachments X2ResistanceTechUpgradeTemplate]
+DisplayName="Basic Immolator Attachments"
+Description="Grants one of each basic Immolator attachment."
+
+[TU_MZImmolator_AdvancedAttachments X2ResistanceTechUpgradeTemplate]
+DisplayName="Advanced Immolator Attachments"
+Description="Grants one of each advanced Immolator attachment."
+
+[TU_MZImmolator_SuperiorAttachments X2ResistanceTechUpgradeTemplate]
+DisplayName="Superior Immolator Attachments"
+Description="Grants one of each superior Immolator attachment."
+
+; [WOTC] Molotovs by Iridar
+
+[TU_IRI_Molotov X2ResistanceTechUpgradeTemplate]
+DisplayName="Molotovs"
+Description="Grants access to Molotovs."
+
+; Jump Jets
+
+[TU_JetBoosters_MK0 X2ResistanceTechUpgradeTemplate]
+DisplayName="Jump Jets"
+Description="Grants access to Jump Jets for all soldiers that can use them."
+
+; [WOTC] Jet Packs
+
+[TU_IRI_JetBoosters_MK1 X2ResistanceTechUpgradeTemplate]
+DisplayName="Booster Jets"
+Description="Grants access to Booster Jets for all soldiers that can use them."
+
+[TU_IRI_JetBoosters_MK2 X2ResistanceTechUpgradeTemplate]
+DisplayName="Elerium Jets"
+Description="Grants access to Elerium Jets for all soldiers that can use them."
+
+; Strings
+
+[UITLE_LadderModeMenu_Override]
+m_EnableModText="Enable Resistance Operation Overhaul"
+m_SquadText="Configure Squad"
+m_LadderLengthText="Number of Missions"
+m_SelectAllowedClassesText="Set Allowed Classes"
+m_SelectAdvancedOptionsText="Set Advanced Options"
+m_AllowDuplicateClassesText="Allow Duplicate Classes"
+m_ForceLevelStartText="Starting Force Level"
+m_ForceLevelEndText="Ending Force Level"
+m_AlertLevelStartText="Starting Alert Level"
+m_AlertLevelEndText="Ending Alert Level"
+m_SaveText="Save Configuration"
+m_LoadText="Load Configuration"
+
+m_EnableModTooltip="Enable this to play the Resistance Operation Overhaul."
+m_SquadTooltip="Choose what soldiers makeup the squad for the Resistance Operation."
+m_LadderLengthTooltip="Number of missions in the Resistance Operation."
+m_SelectAllowedClassesTooltip="Indicates what classes may be chosen for soldiers in the squad set to have their class chosen randomly."
+m_SelectAdvancedOptionsTooltip="Set advanced options for the Resistance Operation. Options that apply to the strategy layer are unavailable."
+m_AllowDuplicateClassesTooltip="If enabled, you may have multiple soldiers of the same class in your squad."
+m_ForceLevelStartTooltip="Force level on the first mission. Higher force level means fighting tougher enemies. Force level will increase linearly from the start of the Resistance Operation to the end based on the entered values."
+m_ForceLevelEndTooltip="Force level on the final mission. Higher force level means fighting tougher enemies. Force level will increase linearly from the start of the Resistance Operation to the end based on the entered values."
+m_AlertLevelStartTooltip="Alert level on the first mission. Higher alert level means fighting more enemies. Alert level will increase linearly from the start of the Resistance Operation to the end based on the entered values."
+m_AlertLevelEndTooltip="Alert level on the final mission. Higher alert level means fighting more enemies. Alert level will increase linearly from the start of the Resistance Operation to the end based on the entered values."
+m_SaveTooltip="Save a Resistance Operation configuration."
+m_LoadTooltip="Load a Resistance Operation configuration."
+
+m_NewSaveText="New Save"
+m_NewSaveDialogTitle="New Save"
+
+m_NewSoldierText="Add New Unit"
+m_RemoveSoldierText = "Remove Unit"
+m_SoldierCharacterPool="Character Pool"
+m_SoldierClass="Class"
+m_SoldierStartingMission="Starting Mission"
+
+m_SoldierRandomlyGeneratedCharacter="Randomly Generated Character"
+m_SoldierRandomCharacter="Random Character"
+m_SoldierRandomClass="Random Class"
+
+[UILadderSquadUpgradeScreen]
+m_ScreenTitle="UPGRADE SQUAD"
+m_ScreenSubtitles_eUIScreenState_Squad="SELECT SOLDIER"
+m_ScreenSubtitles_eUIScreenState_Research="SELECT RESEARCH CATEGORY"
+m_ScreenSubtitles_eUIScreenState_ResearchCategory="SELECT RESEARCH PROJECT"
+m_ScreenSubtitles_eUIScreenState_CompletedProjects="VIEW COMPLETED PROJECTS"
+m_ScreenSubtitles_eUIScreenState_Soldier="EDIT SOLDIER"
+m_ScreenSubtitles_eUIScreenState_PrimaryWeapon="EDIT PRIMARY WEAPON"
+m_ScreenSubtitles_eUIScreenState_WeaponAttachment="EDIT PRIMARY WEAPON ATTACHMENTS"
+m_ScreenSubtitles_eUIScreenState_SecondaryWeapon="EDIT SECONDARY WEAPON"
+m_ScreenSubtitles_eUIScreenState_SecondaryWeaponAttachment="EDIT SECONDARY WEAPON ATTACHMENTS"
+m_ScreenSubtitles_eUIScreenState_SidearmWeapon="EDIT TERTIARY WEAPON"
+m_ScreenSubtitles_eUIScreenState_SidearmWeaponAttachment="EDIT TERTIARY WEAPON ATTACHMENTS"
+m_ScreenSubtitles_eUIScreenState_Armor="EDIT ARMOR"
+m_ScreenSubtitles_eUIScreenState_PCS="EDIT PCS"
+m_ScreenSubtitles_eUIScreenState_UtilItem1="EDIT UTILITY ITEM 1"
+m_ScreenSubtitles_eUIScreenState_UtilItem2="EDIT UTILITY ITEM 2"
+m_ScreenSubtitles_eUIScreenState_UtilItem3="EDIT UTILITY ITEM 3"
+m_ScreenSubtitles_eUIScreenState_UtilItem3="EDIT UTILITY ITEM 4"
+m_ScreenSubtitles_eUIScreenState_UtilItem3="EDIT UTILITY ITEM 5"
+m_ScreenSubtitles_eUIScreenState_GrenadePocket="EDIT GRENADE POCKET"
+m_ScreenSubtitles_eUIScreenState_AmmoPocket="EDIT AMMO POCKET"
+m_ScreenSubtitles_eUIScreenState_HeavyWeapon="EDIT HEAVY WEAPON"
+m_ScreenSubtitles_eUIScreenState_Abilities="EDIT SOLDIER ABILITIES"
+m_ScreenSubtitles_eUIScreenState_CustomSlot="EDIT EQUIPMENT"
+m_Credits="Credits"
+m_Science="Research Level"
+m_Continue="Continue"
+m_Research="Research"
+m_CompletedResearch="View Completed Projects"
+m_PrimaryWeapon="Primary Weapon"
+m_SecondaryWeapon="Secondary Weapon"
+m_WeaponAttachment="Attachment"
+m_Armor="Armor"
+m_PCS="PCS"
+m_UtilityItem="Utility Item"
+m_GrenadePocket="Grenade Pocket"
+m_AmmoPocket="Ammo Pocket"
+m_HeavyWeapon="Heavy Weapon"
+m_NewAbility="Learn New Ability"
+m_ClassAbilities="Class Abilities"
+m_None="None"
+m_PrimaryWeaponCat="Primary Weapons"
+m_SecondaryWeaponCat="Secondary Weapons"
+m_HeavyWeaponCat="Heavy Weapons"
+m_UtilityItemCat="Utility Items"
+m_GrenadeCat="Grenades"
+m_AmmoCat="Ammo"
+m_VestCat="Vests"
+m_ArmorCat="Armor"
+m_WeaponAttachmentCat="Attachments"
+m_PCSCat="PCSs"
+m_MiscCat="Miscellaneous"
+m_ErrorNotEnoughCredits="Not enough Credits or too low of a Research Level"
+m_ConfirmResearchTitle="CONFIRM RESEARCH"
+m_ConfirmResearchText="Are you sure you want to research <XGParam:StrValue0/!DisplayName/> for <XGParam:IntValue0/!Cost/> Credits?"
+m_ConfirmContinueTitle="CONFIRM CONTINUE"
+m_ConfirmContinueText="Not all soldiers have learned a new ability. Are you sure you want to continue?"
+m_Requires="Requires"
+m_SaleTooltip="Inspired! If researched before next mission, the project will cost less Credits."
+
+[UILadderChooseNextMission]
+m_ChooseMissionLabel="CHOOSE MISSION"
+m_ChooseMissionSubtitle="CHOOSE NEXT MISSION"
+m_RewardsText="Rewards: "
+m_CreditsText="Credits: "
+m_ScienceText="Research: "
+m_FreeResearchText="Free Project(s): "
+
+[UILadderRewards]
+m_Title="Mission Reward Summary"
+m_Continue="Continue"
+m_Credits="Credits"
+m_Science="Research"
+m_Upgrades="Projects"
+m_NoUpgrade="None"
